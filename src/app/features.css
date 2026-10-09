@@ -1,0 +1,272 @@
+.feature-panel {
+  padding: 24px;
+  margin: 18px 0;
+  border: 1px solid #d8e1ef;
+  border-radius: 16px;
+  background: white;
+  min-width: 0;
+}
+.feature-heading {
+  display: flex;
+  gap: 12px;
+  align-items: start;
+  margin-bottom: 18px;
+}
+.feature-heading h2 {
+  font-size: 20px;
+  margin: 0 0 6px;
+}
+.feature-panel p,
+.feature-panel small {
+  line-height: 1.6;
+}
+.feature-panel p {
+  margin: 10px 0;
+}
+.feature-panel label {
+  display: block;
+  margin: 14px 0 8px;
+  font-size: 14px;
+}
+.feature-panel input:not([type='checkbox']),
+.feature-panel select,
+.feature-panel textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #bccbe0;
+  border-radius: 8px;
+  font: inherit;
+  min-width: 0;
+  background: #fff;
+  color: #17243c;
+}
+.feature-panel textarea {
+  min-height: 100px;
+  resize: vertical;
+}
+.feature-input-row {
+  display: flex;
+  gap: 10px;
+}
+.feature-panel button.primary,
+.feature-panel button.secondary {
+  border: 1px solid #0c3297;
+  border-radius: 8px;
+  padding: 10px 14px;
+  font: inherit;
+  cursor: pointer;
+}
+.feature-panel button.primary {
+  color: white;
+  background: #0c3297;
+}
+.feature-panel button.secondary {
+  color: #0c3297;
+  background: #eff4ff;
+}
+.feature-panel button:disabled {
+  opacity: 0.55;
+  cursor: default;
+}
+.feature-panel .feature-checkbox,
+.feature-panel .github-repo {
+  display: flex;
+  align-items: start;
+  gap: 10px;
+}
+.feature-checkbox input,
+.github-repo input {
+  flex-shrink: 0;
+  width: 18px;
+  height: 18px;
+  margin-top: 3px;
+}
+.feature-note {
+  color: #4c5b70;
+  font-size: 13px;
+}
+.feature-error {
+  color: #a61b29;
+  background: #fff0f1;
+  padding: 12px;
+  border-radius: 8px;
+}
+.github-repos,
+.github-analysis {
+  border-top: 1px solid #e0e7f2;
+  margin-top: 18px;
+  padding-top: 12px;
+}
+.github-repo {
+  padding: 12px;
+  border: 1px solid #e0e7f2;
+  border-radius: 8px;
+}
+.github-repo span {
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+.github-repo small {
+  display: block;
+  color: #58677b;
+}
+.github-claim {
+  padding: 18px 0;
+  border-bottom: 1px solid #e0e7f2;
+}
+.github-sources {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-top: 8px;
+}
+.github-sources a {
+  font-size: 12px;
+  color: #0c3297;
+  overflow-wrap: anywhere;
+}
+.ai-coach > summary {
+  cursor: pointer;
+  font-weight: 700;
+  font-size: 18px;
+}
+.ai-coach summary svg {
+  vertical-align: middle;
+  margin-right: 6px;
+}
+.coach-result article {
+  border-top: 1px solid #e0e7f2;
+  padding: 16px 0;
+}
+.coach-result h3 {
+  font-size: 16px;
+}
+.coach-result ul,
+.coach-result ol {
+  padding-left: 22px;
+}
+.practice-answer {
+  padding: 16px;
+  background: #f4f7fd;
+  border-radius: 8px;
+}
+.source-policy {
+  padding: 14px;
+  background: #fff6dd;
+  border: 1px solid #ebd48f;
+  border-radius: 8px;
+  font-size: 14px;
+}
+.results-pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 18px;
+  margin: 24px 0;
+}
+.results-pagination span {
+  font-size: 14px;
+}
+.document-preview-toggle {
+  margin: 16px 0;
+}
+.document-preview-toggle > summary {
+  font-weight: 600;
+  cursor: pointer;
+}
+.document-paper {
+  background: white;
+  color: #161f2e;
+  padding: 36px;
+  margin-top: 16px;
+  border: 1px solid #d9e0e9;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+  overflow-wrap: anywhere;
+}
+.document-paper h1 {
+  font-size: 27px;
+  margin: 0 0 8px;
+  letter-spacing: 0;
+  color: #11274b;
+}
+.document-paper h2 {
+  font-size: 13px;
+  letter-spacing: 1px;
+  margin: 18px 0 8px;
+  border-bottom: 1px solid #8493a9;
+  padding-bottom: 5px;
+  color: #172f52;
+}
+.document-paper p {
+  margin: 5px 0;
+  white-space: pre-wrap;
+}
+.paper-bullet {
+  padding-left: 12px;
+  text-indent: -12px;
+}
+.paper-gap {
+  height: 5px;
+}
+.letter-paper p {
+  margin: 0 0 18px;
+}
+.spinning {
+  animation: feature-spin 1s linear infinite;
+}
+@keyframes feature-spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .spinning {
+    animation: none;
+  }
+}
+@media (max-width: 680px) {
+  .feature-panel {
+    padding: 18px;
+  }
+  .feature-input-row {
+    flex-direction: column;
+  }
+  .document-paper {
+    padding: 18px;
+  }
+  .results-pagination {
+    gap: 12px;
+  }
+}
+@media print {
+  .print-document .document-paper p {
+    color: #161f2e;
+    font-size: 10.5pt;
+  }
+  .document-paper {
+    border: 0;
+    padding: 0;
+    margin: 0;
+    font-size: 10.5pt;
+  }
+  .document-paper h1 {
+    font-size: 21pt;
+  }
+  .document-paper h2 {
+    break-after: avoid;
+    font-size: 10pt;
+  }
+  .document-paper p {
+    orphans: 3;
+    widows: 3;
+  }
+  .print-document {
+    display: block !important;
+  }
+  @page {
+    size: A4;
+    margin: 17mm;
+  }
+}

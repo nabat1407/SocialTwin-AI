@@ -1,0 +1,20 @@
+node_modules/
+.pnpm-store/
+.next/
+.next-build/
+.next-u03/
+coverage/
+*.tsbuildinfo
+next-env.d.ts
+.env*
+!.env.example
+tmp/
+.chart-data-*/
+.next-*/
+release/
+*.log
+.DS_Store
+Thumbs.db
+# Original reference material and generated presentation documents stay local.
+presentation/
+

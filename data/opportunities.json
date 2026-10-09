@@ -1,0 +1,1074 @@
+[
+  {
+    "verified_at": "2026-10-09T09:16:13Z",
+    "verification_status": "verified",
+    "fixture": false,
+    "catalog_version": "pilot-catalog-2026-10-09",
+    "id": "cern-technical-it-2027",
+    "name": "Technical Studentship · IT, Mathematics & Robotics",
+    "organization": "CERN",
+    "category": "internship",
+    "location": "Cenevrə, İsveçrə",
+    "work_mode": "onsite",
+    "description": "İT, riyaziyyat və robototexnika üzrə 4–12 aylıq tələbə proqramı. Universitetdə praktiki təcrübə mərhələsi axtaranlar üçün.",
+    "tags": [
+      "IT",
+      "Python",
+      "Robototexnika",
+      "Riyaziyyat",
+      "Kompüter elmləri"
+    ],
+    "benefit": "4–12 ay · aylıq 3 486 CHF net ödəniş",
+    "source_url": "https://careers.cern/jobs/tsc-co/",
+    "deadline": {
+      "kind": "fixed_datetime",
+      "date": "2026-10-16",
+      "time": "23:59:00",
+      "timezone": "Europe/Zurich",
+      "instant": "2026-10-16T23:59:00+02:00",
+      "source_text": "16/10/2026, 23:59 — Cenevrə vaxtı"
+    },
+    "source_excerpt": "İT/riyaziyyat/robototexnika tələbələri; 18 ay təhsil, proqram boyu tam ştat tələbə statusu, ingilis və ya fransız dili, üzv ölkə vətəndaşlığı və CV tələb olunur.",
+    "requirements": [
+      {
+        "id": "ts-field",
+        "label": "İT, riyaziyyat, mühəndislik və ya əlaqəli sahədə təhsil",
+        "kind": "eligibility",
+        "mandatory": true,
+        "criterion": {
+          "field": "education",
+          "term": "Currently studying Computer Science, Mathematics, Robotics, Engineering or related field"
+        },
+        "source_locator": "Eligibility and skills"
+      },
+      {
+        "id": "ts-training",
+        "label": "Universitetin tələb etdiyi və ya tövsiyə etdiyi praktiki təcrübə",
+        "kind": "eligibility",
+        "mandatory": true,
+        "criterion": {
+          "field": "claims",
+          "term": "University requires or encourages a practical training period"
+        },
+        "source_locator": "Eligibility and skills"
+      },
+      {
+        "id": "ts-months",
+        "label": "Seçim vaxtında ən azı 18 aylıq təhsil; PhD deyil",
+        "kind": "eligibility",
+        "mandatory": true,
+        "criterion": {
+          "field": "education",
+          "term": "Completed at least 18 months / 3 semesters; PhD students or holders ineligible"
+        },
+        "source_locator": "Eligibility and skills"
+      },
+      {
+        "id": "ts-enrolled",
+        "label": "Proqram boyunca tam ştat tələbə statusu",
+        "kind": "eligibility",
+        "mandatory": true,
+        "criterion": {
+          "field": "education",
+          "term": "Remain enrolled full-time throughout studentship"
+        },
+        "source_locator": "Eligibility and skills"
+      },
+      {
+        "id": "ts-nationality",
+        "label": "Uyğun üzv ölkə vətəndaşlığı",
+        "kind": "eligibility",
+        "mandatory": true,
+        "criterion": {
+          "field": "claims",
+          "term": "Eligible nationals: Austria, Belgium, Bulgaria, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Israel, Italy, Netherlands, Norway, Poland, Portugal, Romania, Serbia, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, United Kingdom, Brazil, Chile, India, Ireland, Ukraine. This call excludes Pakistan, Lithuania, Latvia, Cyprus, Croatia and Türkiye due to membership ceilings. Do not infer citizenship from residence. Source: https://home.cern/about/who-we-are/member-states/"
+        },
+        "source_locator": "Eligibility and skills"
+      },
+      {
+        "id": "ts-language",
+        "label": "Yaxşı ingilis və ya fransız dili biliyi",
+        "kind": "eligibility",
+        "mandatory": true,
+        "criterion": {
+          "field": "languages",
+          "term": "Good knowledge of English OR French"
+        },
+        "source_locator": "Eligibility and skills"
+      },
+      {
+        "id": "ts-computing",
+        "label": "Hesablama və proqram mühəndisliyi əsasları",
+        "kind": "skill",
+        "mandatory": true,
+        "criterion": {
+          "field": "skills",
+          "term": "Good computing or software engineering fundamentals"
+        },
+        "source_locator": "Eligibility and skills"
+      },
+      {
+        "id": "ts-team",
+        "label": "Komanda işi və ünsiyyət",
+        "kind": "skill",
+        "mandatory": true,
+        "criterion": {
+          "field": "skills",
+          "term": "Good communication and multicultural teamwork"
+        },
+        "source_locator": "Eligibility and skills"
+      },
+      {
+        "id": "ts-cv",
+        "label": "İngilis və ya fransız dilində CV",
+        "kind": "document",
+        "mandatory": true,
+        "criterion": {
+          "field": "document",
+          "term": "Existing CV in English or French"
+        },
+        "source_locator": "Eligibility and skills"
+      }
+    ]
+  },
+  {
+    "verified_at": "2026-10-09T09:16:13Z",
+    "verification_status": "verified",
+    "fixture": false,
+    "catalog_version": "pilot-catalog-2026-10-09",
+    "id": "cern-full-stack-2026",
+    "name": "Full-Stack Software Developer",
+    "organization": "CERN",
+    "category": "job",
+    "location": "Cenevrə, İsveçrə · Hibrid",
+    "work_mode": "hybrid",
+    "description": "Open Data və təkrarlana bilən elmi analiz platformalarında frontend, backend və konteyner infrastrukturu üzərində iş.",
+    "tags": [
+      "React",
+      "Python",
+      "Go",
+      "Docker",
+      "Kubernetes",
+      "Proqramlaşdırma"
+    ],
+    "benefit": "24 aylıq müqavilə · Hibrid",
+    "source_url": "https://careers.cern/jobs/full-stack-software-developer/",
+    "deadline": {
+      "kind": "fixed_datetime",
+      "date": "2026-10-25",
+      "time": "23:59:00",
+      "timezone": "Europe/Zurich",
+      "instant": "2026-10-25T23:59:00+01:00",
+      "source_text": "25/10/2026, 23:59 — Cenevrə vaxtı"
+    },
+    "source_excerpt": "Full-stack və konteyner təcrübəsi; React, Python/Go, Docker/Kubernetes/Helm. Müvafiq diplom, məzuniyyətdən sonra maksimum 2 il təcrübə, PhD olmaması və uyğun vətəndaşlıq şərtləri var.",
+    "requirements": [
+      {
+        "id": "fs-nationality",
+        "label": "Uyğun üzv ölkə vətəndaşlığı",
+        "kind": "eligibility",
+        "mandatory": true,
+        "criterion": {
+          "field": "claims",
+          "term": "Eligible nationals: Austria, Belgium, Bulgaria, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Israel, Italy, Netherlands, Norway, Poland, Portugal, Romania, Serbia, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, United Kingdom, Brazil, Chile, India, Ireland, Ukraine. This call excludes Pakistan, Lithuania, Latvia, Cyprus, Croatia and Türkiye due to membership ceilings. Do not infer citizenship from residence. Source: https://home.cern/about/who-we-are/member-states/"
+        },
+        "source_locator": "Eligibility and skills"
+      },
+      {
+        "id": "fs-degree",
+        "label": "Əlaqəli sahədə bakalavr/magistr diplomu; PhD deyil",
+        "kind": "eligibility",
+        "mandatory": true,
+        "criterion": {
+          "field": "education",
+          "term": "University bachelor or master degree, Computer Science/equivalent or related field; no PhD"
+        },
+        "source_locator": "Eligibility and skills"
+      },
+      {
+        "id": "fs-years",
+        "label": "Məzuniyyətdən sonra maksimum 2 il peşə təcrübəsi",
+        "kind": "eligibility",
+        "mandatory": true,
+        "criterion": {
+          "field": "claims",
+          "term": "By deadline maximum 2 years professional experience since graduation"
+        },
+        "source_locator": "Eligibility and skills"
+      },
+      {
+        "id": "fs-prior",
+        "label": "Əvvəlki CERN fellow/graduate müqaviləsi yoxdur",
+        "kind": "eligibility",
+        "mandatory": true,
+        "criterion": {
+          "field": "claims",
+          "term": "Never had CERN fellow or graduate contract"
+        },
+        "source_locator": "Eligibility and skills"
+      },
+      {
+        "id": "fs-fullstack",
+        "label": "Frontend və backend inkişafı təcrübəsi",
+        "kind": "skill",
+        "mandatory": true,
+        "criterion": {
+          "field": "skills",
+          "term": "Full-stack software development experience"
+        },
+        "source_locator": "Eligibility and skills"
+      },
+      {
+        "id": "fs-react",
+        "label": "React",
+        "kind": "skill",
+        "mandatory": true,
+        "criterion": {
+          "field": "skills",
+          "term": "React"
+        },
+        "source_locator": "Eligibility and skills"
+      },
+      {
+        "id": "fs-backend",
+        "label": "Python və Go backend texnologiyaları",
+        "kind": "skill",
+        "mandatory": true,
+        "criterion": {
+          "field": "skills",
+          "term": "Backend technologies Python and Go"
+        },
+        "source_locator": "Eligibility and skills"
+      },
+      {
+        "id": "fs-deploy",
+        "label": "Docker, Kubernetes və Helm",
+        "kind": "skill",
+        "mandatory": true,
+        "criterion": {
+          "field": "skills",
+          "term": "Deployment technologies Docker, Kubernetes and Helm"
+        },
+        "source_locator": "Eligibility and skills"
+      },
+      {
+        "id": "fs-security",
+        "label": "Deployment, monitorinq və təhlükəsizlik təcrübəsi",
+        "kind": "skill",
+        "mandatory": true,
+        "criterion": {
+          "field": "skills",
+          "term": "Container and application deployment, monitoring and security experience"
+        },
+        "source_locator": "Eligibility and skills"
+      },
+      {
+        "id": "fs-language",
+        "label": "İngilis dili; fransız dili öyrənməyə hazırlıq",
+        "kind": "eligibility",
+        "mandatory": true,
+        "criterion": {
+          "field": "languages",
+          "term": "Spoken/written English and commitment to learn French"
+        },
+        "source_locator": "Eligibility and skills"
+      },
+      {
+        "id": "fs-duty",
+        "label": "Ehtiyac olduqda növbə və qeyri-standart iş saatları",
+        "kind": "eligibility",
+        "mandatory": true,
+        "criterion": {
+          "field": "claims",
+          "term": "Accept standby, nights, Sundays and holidays when required"
+        },
+        "source_locator": "Eligibility and skills"
+      },
+      {
+        "id": "fs-cv",
+        "label": "İngilis və ya fransız dilində CV",
+        "kind": "document",
+        "mandatory": true,
+        "criterion": {
+          "field": "document",
+          "term": "Existing English/French CV"
+        },
+        "source_locator": "Eligibility and skills"
+      },
+      {
+        "id": "fs-diploma",
+        "label": "Diplom və ya təhsil nailiyyəti arayışı",
+        "kind": "document",
+        "mandatory": true,
+        "criterion": {
+          "field": "document",
+          "term": "Copy of relevant diploma or school achievement certificate"
+        },
+        "source_locator": "Eligibility and skills"
+      },
+      {
+        "id": "fs-research",
+        "label": "Elmi məlumat analizi ilə tanışlıq",
+        "kind": "preference",
+        "mandatory": false,
+        "criterion": {
+          "field": "skills",
+          "term": "Familiarity with computational research data analyses"
+        },
+        "source_locator": "Eligibility and skills"
+      }
+    ]
+  },
+  {
+    "verified_at": "2026-10-09T09:16:13Z",
+    "verification_status": "verified",
+    "fixture": false,
+    "catalog_version": "pilot-catalog-2026-10-09",
+    "id": "hkpfs-2027",
+    "name": "Hong Kong PhD Fellowship · 2027/28",
+    "organization": "Research Grants Council",
+    "category": "scholarship",
+    "location": "Honq Konq · 8 universitet",
+    "work_mode": "onsite",
+    "description": "Yeni tam ştat PhD namizədləri üçün təqaüd. Elmlər, texnologiya, sosial elmlər və biznes istiqamətlərini əhatə edir; seçilən universitetin qəbul şərtləri ayrıca qüvvədədir.",
+    "tags": [
+      "Tədqiqat",
+      "PhD",
+      "Kompüter elmləri",
+      "İqtisadiyyat",
+      "Biznes"
+    ],
+    "benefit": "PhD maliyyələşməsi · Universitet seçimi",
+    "source_url": "https://www.ugc.edu.hk/eng/rgc/funding_opport/hkpfs/",
+    "deadline": {
+      "kind": "fixed_datetime",
+      "date": "2026-12-01",
+      "time": "12:00:00",
+      "timezone": "Asia/Hong_Kong",
+      "instant": "2026-12-01T12:00:00+08:00",
+      "source_text": "01/12/2026, 12:00 — Honq Konq vaxtı (ilkin müraciət)"
+    },
+    "source_excerpt": "2027/28 müraciətləri açıqdır. Yeni tam ştat PhD qəbulu, universitetin qəbul şərtləri, akademik uğur, tədqiqat potensialı, ünsiyyət və liderlik qiymətləndirilir.",
+    "requirements": [
+      {
+        "id": "hk-phd",
+        "label": "Yeni tam ştat PhD proqramına müraciət",
+        "kind": "eligibility",
+        "mandatory": true,
+        "criterion": {
+          "field": "claims",
+          "term": "Seeking admission as a NEW full-time PhD student at one of eight listed Hong Kong universities: CityU, HKBU, Lingnan, CUHK, EdUHK, PolyU, HKUST, HKU"
+        },
+        "source_locator": "Eligibility and skills"
+      },
+      {
+        "id": "hk-admission",
+        "label": "Seçilən universitet və proqramın qəbul şərtləri",
+        "kind": "eligibility",
+        "mandatory": true,
+        "criterion": {
+          "field": "education",
+          "term": "Comply with individual university and programme admission requirements; absent programme details means unknown"
+        },
+        "source_locator": "Eligibility and skills"
+      },
+      {
+        "id": "hk-academic",
+        "label": "Güclü akademik göstəricilər",
+        "kind": "skill",
+        "mandatory": true,
+        "criterion": {
+          "field": "education",
+          "term": "Outstanding academic performance supported by grades or academic record"
+        },
+        "source_locator": "Eligibility and skills"
+      },
+      {
+        "id": "hk-research",
+        "label": "Tədqiqat bacarığı və potensialı",
+        "kind": "skill",
+        "mandatory": true,
+        "criterion": {
+          "field": "skills",
+          "term": "Research ability or potential"
+        },
+        "source_locator": "Eligibility and skills"
+      },
+      {
+        "id": "hk-communication",
+        "label": "Ünsiyyət və şəxslərarası bacarıqlar",
+        "kind": "skill",
+        "mandatory": true,
+        "criterion": {
+          "field": "skills",
+          "term": "Communication and interpersonal skills"
+        },
+        "source_locator": "Eligibility and skills"
+      },
+      {
+        "id": "hk-leadership",
+        "label": "Liderlik bacarıqları",
+        "kind": "skill",
+        "mandatory": true,
+        "criterion": {
+          "field": "skills",
+          "term": "Excellent leadership abilities"
+        },
+        "source_locator": "Eligibility and skills"
+      },
+      {
+        "id": "hk-reference",
+        "label": "HKPFS ilkin müraciət nömrəsi və universitet müraciəti",
+        "kind": "document",
+        "mandatory": true,
+        "criterion": {
+          "field": "document",
+          "term": "Initial application HKPFS reference number followed by direct PhD admission application"
+        },
+        "source_locator": "Eligibility and skills"
+      }
+    ]
+  },
+  {
+    "verified_at": "2026-10-09T09:16:13Z",
+    "verification_status": "verified",
+    "fixture": false,
+    "catalog_version": "pilot-catalog-2026-10-09",
+    "id": "unicef-venture-rolling",
+    "name": "UNICEF Venture Fund · Rolling Call",
+    "organization": "UNICEF",
+    "category": "grant",
+    "location": "UNICEF proqram ölkələri",
+    "work_mode": "unspecified",
+    "description": "Uşaqların həyatına müsbət təsir edən açıq mənbəli texnologiya startapları üçün ilkin maliyyələşmə. Fərdi tələbə deyil, qeydiyyatdan keçmiş şirkət müraciət edir.",
+    "tags": [
+      "Startap",
+      "Süni intellekt",
+      "Open Source",
+      "Sosial təsir",
+      "Texnologiya"
+    ],
+    "benefit": "100 000 USD-dək · Səhm qarşılığı olmadan",
+    "source_url": "https://www.unicefventurefund.org/apply-funding",
+    "deadline": {
+      "kind": "rolling",
+      "date": null,
+      "source_text": "Davamlı EOI qəbulu; baxılma elan edilən texnologiya çağırışlarına bağlıdır"
+    },
+    "source_excerpt": "Hüquqi qeydiyyatdan keçmiş özəl kommersiya şirkəti, UNICEF proqram ölkəsində qeydiyyat, işlək pilot prototip, uşaqlara təsir, açıq mənbə lisenziyası və ölçülə bilən açıq real-time data (və ya onun planı). Fərdi şəxslər və QHT-lər uyğun deyil.",
+    "requirements": [
+      {
+        "id": "uv-company",
+        "label": "Qeydiyyatdan keçmiş özəl kommersiya şirkəti",
+        "kind": "eligibility",
+        "mandatory": true,
+        "criterion": {
+          "field": "claims",
+          "term": "Legally registered private for-profit company; individuals, universities and NGOs cannot submit"
+        },
+        "source_locator": "Eligibility and skills"
+      },
+      {
+        "id": "uv-country",
+        "label": "UNICEF proqram ölkəsində şirkət qeydiyyatı",
+        "kind": "eligibility",
+        "mandatory": true,
+        "criterion": {
+          "field": "claims",
+          "term": "Company registered in a UNICEF programme country; do not infer from personal residence"
+        },
+        "source_locator": "Eligibility and skills"
+      },
+      {
+        "id": "uv-prototype",
+        "label": "İşlək prototip və ilkin pilot nəticələri",
+        "kind": "eligibility",
+        "mandatory": true,
+        "criterion": {
+          "field": "claims",
+          "term": "Active prototype with promising initial pilot results"
+        },
+        "source_locator": "Eligibility and skills"
+      },
+      {
+        "id": "uv-children",
+        "label": "Həssas uşaqların həyatına müsbət təsir",
+        "kind": "eligibility",
+        "mandatory": true,
+        "criterion": {
+          "field": "claims",
+          "term": "Potential positive impact on vulnerable children"
+        },
+        "source_locator": "Eligibility and skills"
+      },
+      {
+        "id": "uv-open",
+        "label": "Açıq mənbə texnologiyası və ya lisenziya öhdəliyi",
+        "kind": "eligibility",
+        "mandatory": true,
+        "criterion": {
+          "field": "claims",
+          "term": "Open Source frontier technology solution OR commitment to open license within required period"
+        },
+        "source_locator": "Eligibility and skills"
+      },
+      {
+        "id": "uv-data",
+        "label": "Açıq, ölçülə bilən real-time data və ya aydın plan",
+        "kind": "eligibility",
+        "mandatory": true,
+        "criterion": {
+          "field": "claims",
+          "term": "Publicly exposed measurable real-time data OR explicitly proposed collection/display/analysis plan"
+        },
+        "source_locator": "Eligibility and skills"
+      },
+      {
+        "id": "uv-eoi",
+        "label": "Tam EOI məlumatları və dəstəkləyici sənədlər",
+        "kind": "document",
+        "mandatory": true,
+        "criterion": {
+          "field": "document",
+          "term": "Expression of interest with required information and supporting documents"
+        },
+        "source_locator": "Eligibility and skills"
+      }
+    ]
+  },
+  {
+    "verified_at": "2026-10-09T11:19:53.545Z",
+    "verification_status": "verified",
+    "fixture": false,
+    "catalog_version": "pilot-catalog-expanded-2026-10-09",
+    "id": "cern-administrative-2027",
+    "name": "Administrative Student Programme 2027-1",
+    "organization": "CERN",
+    "category": "internship",
+    "location": "Cenevrə, İsveçrə",
+    "work_mode": "onsite",
+    "description": "Kommunikasiya, maliyyə, HR, hüquq, logistika və inzibati sahələr üzrə 4–12 aylıq tələbə proqramı.",
+    "tags": [
+      "Maliyyə",
+      "HR",
+      "Hüquq",
+      "Kommunikasiya",
+      "İdarəetmə"
+    ],
+    "benefit": "4–12 ay · aylıq 3 486 CHF net ödəniş",
+    "source_url": "https://careers.cern/jobs/tsc-admin/",
+    "deadline": {
+      "kind": "fixed_datetime",
+      "date": "2026-10-16",
+      "time": "23:59:00",
+      "timezone": "Europe/Zurich",
+      "instant": "2026-10-16T23:59:00+02:00",
+      "source_text": "16/10/2026, 23:59 — Cenevrə vaxtı"
+    },
+    "source_excerpt": "İnzibati sahə, ən azı 18 ay təhsil, tam ştat tələbə statusu, üzv ölkə vətəndaşlığı, EN/FR və CV; PhD tələbəsi və ya diplomu uyğun deyil.",
+    "requirements": [
+      {
+        "id": "admin-field",
+        "label": "İnzibati və ya əlaqəli sahədə təhsil",
+        "kind": "eligibility",
+        "mandatory": true,
+        "criterion": {
+          "field": "education",
+          "term": "Studying administration, communication, finance, HR, law, logistics, procurement or a related administrative field"
+        },
+        "source_locator": "Eligibility and skills"
+      },
+      {
+        "id": "admin-months",
+        "label": "Ən azı 18 aylıq təhsil; PhD deyil",
+        "kind": "eligibility",
+        "mandatory": true,
+        "criterion": {
+          "field": "education",
+          "term": "Completed at least 18 months / 3 semesters; PhD students or holders ineligible"
+        },
+        "source_locator": "Eligibility and skills"
+      },
+      {
+        "id": "admin-tools",
+        "label": "Ofis və rəqəmsal alətlərlə işləmək",
+        "kind": "skill",
+        "mandatory": true,
+        "criterion": {
+          "field": "skills",
+          "term": "Office software and digital tools; precision and curiosity"
+        },
+        "source_locator": "Eligibility and skills"
+      },
+      {
+        "id": "admin-training",
+        "label": "Universitetin tələb etdiyi və ya tövsiyə etdiyi praktiki təcrübə",
+        "kind": "eligibility",
+        "mandatory": true,
+        "criterion": {
+          "field": "claims",
+          "term": "University requires or encourages practical training"
+        },
+        "source_locator": "Eligibility and skills"
+      },
+      {
+        "id": "admin-enrolled",
+        "label": "Proqram boyunca tam ştat tələbə statusu",
+        "kind": "eligibility",
+        "mandatory": true,
+        "criterion": {
+          "field": "education",
+          "term": "Remain enrolled full-time throughout internship"
+        },
+        "source_locator": "Eligibility and skills"
+      },
+      {
+        "id": "admin-nationality",
+        "label": "Uyğun üzv ölkə vətəndaşlığı",
+        "kind": "eligibility",
+        "mandatory": true,
+        "criterion": {
+          "field": "claims",
+          "term": "Eligible nationals: Austria, Belgium, Bulgaria, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Israel, Italy, Netherlands, Norway, Poland, Portugal, Romania, Serbia, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, United Kingdom, Brazil, Chile, India, Ireland, Ukraine. This call excludes Pakistan, Lithuania, Latvia, Cyprus, Croatia and Türkiye due to membership ceilings. Do not infer citizenship from residence. Source: https://home.cern/about/who-we-are/member-states/"
+        },
+        "source_locator": "Eligibility and skills"
+      },
+      {
+        "id": "admin-language",
+        "label": "Yaxşı ingilis və ya fransız dili biliyi",
+        "kind": "eligibility",
+        "mandatory": true,
+        "criterion": {
+          "field": "languages",
+          "term": "Good knowledge of English OR French"
+        },
+        "source_locator": "Eligibility and skills"
+      },
+      {
+        "id": "admin-team",
+        "label": "Komanda işi və aydın ünsiyyət",
+        "kind": "skill",
+        "mandatory": true,
+        "criterion": {
+          "field": "claims",
+          "term": "Effective communication and teamwork"
+        },
+        "source_locator": "Eligibility and skills"
+      },
+      {
+        "id": "admin-cv",
+        "label": "İngilis və ya fransız dilində CV",
+        "kind": "document",
+        "mandatory": true,
+        "criterion": {
+          "field": "document",
+          "term": "Existing CV in English or French"
+        },
+        "source_locator": "Eligibility and skills"
+      }
+    ]
+  },
+  {
+    "verified_at": "2026-10-09T11:19:53.545Z",
+    "verification_status": "verified",
+    "fixture": false,
+    "catalog_version": "pilot-catalog-expanded-2026-10-09",
+    "id": "cern-short-term-2026",
+    "name": "Short-Term Internship STAG 2026",
+    "organization": "CERN",
+    "category": "internship",
+    "location": "Cenevrə, İsveçrə",
+    "work_mode": "onsite",
+    "description": "Texniki, mühəndislik və ya inzibati sahədə təhsil alanlar üçün 1–6 aylıq praktiki təcrübə.",
+    "tags": [
+      "Mühəndislik",
+      "IT",
+      "İdarəetmə"
+    ],
+    "benefit": "1–6 ay · aylıq 1 593 CHF ödəniş",
+    "source_url": "https://careers.cern/jobs/short-term-internship/",
+    "deadline": {
+      "kind": "fixed_datetime",
+      "date": "2026-11-01",
+      "time": "23:59:00",
+      "timezone": "Europe/Zurich",
+      "instant": "2026-11-01T23:59:00+01:00",
+      "source_text": "01/11/2026, 23:59 — Cenevrə vaxtı"
+    },
+    "source_excerpt": "Post-secondary diploma, bachelor və ya master tələbəsi; tam ştat qeydiyyat, uyğun vətəndaşlıq, EN/FR və CV tələb olunur.",
+    "requirements": [
+      {
+        "id": "short-field",
+        "label": "Texniki, mühəndislik və ya inzibati təhsil",
+        "kind": "eligibility",
+        "mandatory": true,
+        "criterion": {
+          "field": "education",
+          "term": "Currently studying a post-secondary diploma, bachelor or master in a technical, engineering or administrative field"
+        },
+        "source_locator": "Eligibility and skills"
+      },
+      {
+        "id": "short-fundamentals",
+        "label": "Seçilən sahə üzrə əsas biliklər",
+        "kind": "skill",
+        "mandatory": true,
+        "criterion": {
+          "field": "claims",
+          "term": "Basic knowledge in the chosen technical or administrative field"
+        },
+        "source_locator": "Eligibility and skills"
+      },
+      {
+        "id": "short-training",
+        "label": "Universitetin tələb etdiyi və ya tövsiyə etdiyi praktiki təcrübə",
+        "kind": "eligibility",
+        "mandatory": true,
+        "criterion": {
+          "field": "claims",
+          "term": "University requires or encourages practical training"
+        },
+        "source_locator": "Eligibility and skills"
+      },
+      {
+        "id": "short-enrolled",
+        "label": "Proqram boyunca tam ştat tələbə statusu",
+        "kind": "eligibility",
+        "mandatory": true,
+        "criterion": {
+          "field": "education",
+          "term": "Remain enrolled full-time throughout internship"
+        },
+        "source_locator": "Eligibility and skills"
+      },
+      {
+        "id": "short-nationality",
+        "label": "Uyğun üzv ölkə vətəndaşlığı",
+        "kind": "eligibility",
+        "mandatory": true,
+        "criterion": {
+          "field": "claims",
+          "term": "Eligible nationals: Austria, Belgium, Bulgaria, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Israel, Italy, Netherlands, Norway, Poland, Portugal, Romania, Serbia, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, United Kingdom, Brazil, Chile, India, Ireland, Ukraine. This call excludes Pakistan, Lithuania, Latvia, Cyprus, Croatia and Türkiye due to membership ceilings. Do not infer citizenship from residence. Source: https://home.cern/about/who-we-are/member-states/"
+        },
+        "source_locator": "Eligibility and skills"
+      },
+      {
+        "id": "short-language",
+        "label": "Yaxşı ingilis və ya fransız dili biliyi",
+        "kind": "eligibility",
+        "mandatory": true,
+        "criterion": {
+          "field": "languages",
+          "term": "Good knowledge of English OR French"
+        },
+        "source_locator": "Eligibility and skills"
+      },
+      {
+        "id": "short-team",
+        "label": "Komanda işi və aydın ünsiyyət",
+        "kind": "skill",
+        "mandatory": true,
+        "criterion": {
+          "field": "claims",
+          "term": "Effective communication and teamwork"
+        },
+        "source_locator": "Eligibility and skills"
+      },
+      {
+        "id": "short-cv",
+        "label": "İngilis və ya fransız dilində CV",
+        "kind": "document",
+        "mandatory": true,
+        "criterion": {
+          "field": "document",
+          "term": "Existing CV in English or French"
+        },
+        "source_locator": "Eligibility and skills"
+      }
+    ]
+  },
+  {
+    "verified_at": "2026-10-09T11:19:53.545Z",
+    "verification_status": "verified",
+    "fixture": false,
+    "catalog_version": "pilot-catalog-expanded-2026-10-09",
+    "id": "nlnet-restack-2026",
+    "name": "NLnet Restack · First call",
+    "organization": "NLnet",
+    "category": "grant",
+    "location": "Beynəlxalq · Avropa əlaqəsi tələb olunur",
+    "work_mode": "remote",
+    "description": "Açıq internet infrastrukturu və etibarlı rəqəmsal xidmətlər üçün texniki inkişaf qrantı. Fərdlər də müraciət edə bilər; coğrafi əlaqə ayrıca yoxlanılır.",
+    "tags": [
+      "Open source",
+      "Proqram mühəndisliyi",
+      "Təhlükəsizlik",
+      "Tədqiqat"
+    ],
+    "benefit": "İlk qrant üçün €5 000–€50 000",
+    "source_url": "https://nlnet.nl/restack/",
+    "writing_policy": "disclose_ai",
+    "deadline": {
+      "kind": "fixed_datetime",
+      "date": "2026-11-03",
+      "time": "12:00:00",
+      "timezone": "Europe/Amsterdam",
+      "instant": "2026-11-03T12:00:00+01:00",
+      "source_text": "3 November 2026, 12:00 CET (noon)"
+    },
+    "source_excerpt": "İlk çağırış açıqdır. Texniki R&D, açıq lisenziya, güclü Avropa əlaqəsi və əsaslandırılmış büdcə. Ərizə ingiliscə öz sözlərinlə; AI yardımı açıqlanmalı və dialoq qeydləri təqdim edilməlidir.",
+    "requirements": [
+      {
+        "id": "restack-scope",
+        "label": "Açıq internet infrastrukturu və etibarlı rəqəmsal xidmətlər",
+        "kind": "eligibility",
+        "mandatory": true,
+        "criterion": {
+          "field": "claims",
+          "term": "R&D creating trustworthy deployable open internet infrastructure, a resilient technology commons and alternatives to closed services"
+        },
+        "source_locator": "https://nlnet.nl/restack/"
+      },
+      {
+        "id": "restack-licence",
+        "label": "Nəticələrin açıq lisenziya ilə yayımlanması",
+        "kind": "eligibility",
+        "mandatory": true,
+        "criterion": {
+          "field": "claims",
+          "term": "Software, hardware and content released under open licences and preferably open standards"
+        },
+        "source_locator": "https://nlnet.nl/propose/"
+      },
+      {
+        "id": "restack-europe",
+        "label": "Güclü Avropa əlaqəsi və ya əsaslandırılmış istisna",
+        "kind": "eligibility",
+        "mandatory": true,
+        "criterion": {
+          "field": "claims",
+          "term": "Strong European dimension: normally at least 60% of funds received by team from Horizon Europe-eligible countries; exceptional quality and unique expertise outside these countries may be considered. Do not assume eligibility solely from a country or location."
+        },
+        "source_locator": "https://nlnet.nl/restack/eligibility/"
+      },
+      {
+        "id": "restack-budget",
+        "label": "Aydın tapşırıqlar, büdcə və texniki çətinliklər",
+        "kind": "document",
+        "mandatory": true,
+        "criterion": {
+          "field": "document",
+          "term": "Self-contained cost-effective proposal, task/time budget, technical challenges, ecosystem and relevant contribution evidence"
+        },
+        "source_locator": "https://nlnet.nl/propose/"
+      },
+      {
+        "id": "restack-own-words",
+        "label": "İngiliscə öz sözlərinlə ərizə; AI yardımı açıqlanır",
+        "kind": "document",
+        "mandatory": true,
+        "criterion": {
+          "field": "document",
+          "term": "English own-words proposal; not AI-generated projects/proposals. If AI assistance needed, disclose model/use and provide prompts/interactions and output logs."
+        },
+        "source_locator": "https://nlnet.nl/propose/"
+      }
+    ]
+  },
+  {
+    "verified_at": "2026-10-09T11:19:53.545Z",
+    "verification_status": "verified",
+    "fixture": false,
+    "catalog_version": "pilot-catalog-expanded-2026-10-09",
+    "id": "nlnet-codesupply-2026",
+    "name": "NLnet CodeSupply · First call",
+    "organization": "NLnet",
+    "category": "grant",
+    "location": "Beynəlxalq · Avropa əlaqəsi tələb olunur",
+    "work_mode": "remote",
+    "description": "Açıq mənbə proqram təchizat zənciri: metadata, təhlükəsizlik və uyğunluq üçün texniki inkişaf qrantı. Fərdlər də müraciət edə bilər; coğrafi əlaqə ayrıca yoxlanılır.",
+    "tags": [
+      "Open source",
+      "Proqram mühəndisliyi",
+      "Təhlükəsizlik",
+      "Tədqiqat"
+    ],
+    "benefit": "İlk qrant üçün €5 000–€50 000",
+    "source_url": "https://nlnet.nl/codesupply/",
+    "writing_policy": "disclose_ai",
+    "deadline": {
+      "kind": "fixed_datetime",
+      "date": "2026-11-03",
+      "time": "12:00:00",
+      "timezone": "Europe/Amsterdam",
+      "instant": "2026-11-03T12:00:00+01:00",
+      "source_text": "3 November 2026, 12:00 CET (noon)"
+    },
+    "source_excerpt": "İlk çağırış açıqdır. Texniki R&D, açıq lisenziya, güclü Avropa əlaqəsi və əsaslandırılmış büdcə. Ərizə ingiliscə öz sözlərinlə; AI yardımı açıqlanmalı və dialoq qeydləri təqdim edilməlidir.",
+    "requirements": [
+      {
+        "id": "codesupply-scope",
+        "label": "Açıq mənbə proqram təchizat zənciri: metadata, təhlükəsizlik və uyğunluq",
+        "kind": "eligibility",
+        "mandatory": true,
+        "criterion": {
+          "field": "claims",
+          "term": "R&D on free open-source software supply chains: software metadata/open datasets, security, or regulatory/open-source compliance"
+        },
+        "source_locator": "https://nlnet.nl/codesupply/"
+      },
+      {
+        "id": "codesupply-licence",
+        "label": "Nəticələrin açıq lisenziya ilə yayımlanması",
+        "kind": "eligibility",
+        "mandatory": true,
+        "criterion": {
+          "field": "claims",
+          "term": "Software, hardware and content released under open licences and preferably open standards"
+        },
+        "source_locator": "https://nlnet.nl/propose/"
+      },
+      {
+        "id": "codesupply-europe",
+        "label": "Güclü Avropa əlaqəsi və ya əsaslandırılmış istisna",
+        "kind": "eligibility",
+        "mandatory": true,
+        "criterion": {
+          "field": "claims",
+          "term": "Strong European dimension: normally at least 60% of funds received by team from Horizon Europe-eligible countries; exceptional quality and unique expertise outside these countries may be considered. Do not assume eligibility solely from a country or location."
+        },
+        "source_locator": "https://nlnet.nl/codesupply/eligibility/"
+      },
+      {
+        "id": "codesupply-budget",
+        "label": "Aydın tapşırıqlar, büdcə və texniki çətinliklər",
+        "kind": "document",
+        "mandatory": true,
+        "criterion": {
+          "field": "document",
+          "term": "Self-contained cost-effective proposal, task/time budget, technical challenges, ecosystem and relevant contribution evidence"
+        },
+        "source_locator": "https://nlnet.nl/propose/"
+      },
+      {
+        "id": "codesupply-own-words",
+        "label": "İngiliscə öz sözlərinlə ərizə; AI yardımı açıqlanır",
+        "kind": "document",
+        "mandatory": true,
+        "criterion": {
+          "field": "document",
+          "term": "English own-words proposal; not AI-generated projects/proposals. If AI assistance needed, disclose model/use and provide prompts/interactions and output logs."
+        },
+        "source_locator": "https://nlnet.nl/propose/"
+      }
+    ]
+  },
+  {
+    "verified_at": "2026-10-09T11:19:53.545Z",
+    "verification_status": "verified",
+    "fixture": false,
+    "catalog_version": "pilot-catalog-expanded-2026-10-09",
+    "id": "uct-mastercard-postgraduate-2027",
+    "name": "Mastercard Foundation Scholars · Postgraduate 2027",
+    "organization": "University of Cape Town",
+    "category": "scholarship",
+    "location": "Keyptaun, Cənubi Afrika",
+    "work_mode": "onsite",
+    "description": "2027 üçün tam ştat honours, coursework master və uyğun Health Sciences postgraduate diploma proqramlarına təqaüd. Araşdırma-only master və PhD bu çağırışa daxil deyil.",
+    "tags": [
+      "Magistr",
+      "İqtisadiyyat",
+      "Elm",
+      "Hüquq",
+      "Mühəndislik",
+      "Humanitar"
+    ],
+    "benefit": "Postgraduate Scholars təqaüd proqramı",
+    "source_url": "https://uct.ac.za/mastercardfdn/apply-mastercard-foundation-scholars-program",
+    "deadline": {
+      "kind": "fixed_date",
+      "date": "2026-10-31",
+      "source_text": "31 October 2026 · mənbə saat göstərmir; fakültənin qəbul tarixi ayrıca yoxlanmalıdır"
+    },
+    "source_excerpt": "Postgraduate 2027 açıqdır. Afrika ölkəsi vətəndaşlığı, akademik göstəricilər, sosial/iqtisadi maneələr, liderlik, cəmiyyətə töhfə və uyğun UCT proqramına qəbul tələb olunur. Undergraduate çağırışı bağlanıb.",
+    "requirements": [
+      {
+        "id": "uct-citizenship",
+        "label": "Afrika ölkəsi vətəndaşlığı (Cənubi Afrika daxil)",
+        "kind": "eligibility",
+        "mandatory": true,
+        "criterion": {
+          "field": "claims",
+          "term": "Citizen of an African country, including South Africa"
+        },
+        "source_locator": "Eligibility criteria"
+      },
+      {
+        "id": "uct-programme",
+        "label": "Uyğun tam ştat postgraduate proqramı",
+        "kind": "eligibility",
+        "mandatory": true,
+        "criterion": {
+          "field": "education",
+          "term": "First eligible postgraduate: full-time honours or coursework masters in any of six UCT faculties, or eligible Health Sciences postgraduate diploma; no research-only masters or PhD"
+        },
+        "source_locator": "Postgraduate applications"
+      },
+      {
+        "id": "uct-merit",
+        "label": "Yüksək akademik göstəricilər",
+        "kind": "eligibility",
+        "mandatory": true,
+        "criterion": {
+          "field": "claims",
+          "term": "Academically talented with demonstrated academic excellence"
+        },
+        "source_locator": "Eligibility criteria"
+      },
+      {
+        "id": "uct-barriers",
+        "label": "Əhəmiyyətli iqtisadi və sosial maneələr",
+        "kind": "eligibility",
+        "mandatory": true,
+        "criterion": {
+          "field": "claims",
+          "term": "Significant economic and social barriers to accessing higher education; do not infer from nationality"
+        },
+        "source_locator": "Eligibility criteria"
+      },
+      {
+        "id": "uct-leadership",
+        "label": "Etik liderlik",
+        "kind": "eligibility",
+        "mandatory": true,
+        "criterion": {
+          "field": "claims",
+          "term": "Demonstrated ethical leadership potential"
+        },
+        "source_locator": "Eligibility criteria"
+      },
+      {
+        "id": "uct-community",
+        "label": "Cəmiyyətə töhfə və geri vermək öhdəliyi",
+        "kind": "eligibility",
+        "mandatory": true,
+        "criterion": {
+          "field": "claims",
+          "term": "Commitment to community service and giving back to home communities"
+        },
+        "source_locator": "Eligibility criteria"
+      },
+      {
+        "id": "uct-admission",
+        "label": "Təqaüd verilməzdən əvvəl UCT qəbul təklifi",
+        "kind": "document",
+        "mandatory": true,
+        "criterion": {
+          "field": "document",
+          "term": "Apply separately for UCT academic admission; offer of admission required before scholarship award; faculty deadlines vary"
+        },
+        "source_locator": "Application process"
+      }
+    ]
+  }
+]
